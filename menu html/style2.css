@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  header{
+    font-family: sans-serif;
+    width: 480px;
+    margin: 0 auto;
+  }
+  ul{
+    list-style: none;
+  }
+  #menu li>a{
+    background-color: grey;
+    color:white;
+    text-decoration: none;
+  }
